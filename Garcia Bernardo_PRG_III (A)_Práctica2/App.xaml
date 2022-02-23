@@ -1,0 +1,9 @@
+﻿<Application x:Class="Garcia_Bernardo_PRG_III__A__Práctica2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Garcia_Bernardo_PRG_III__A__Práctica2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

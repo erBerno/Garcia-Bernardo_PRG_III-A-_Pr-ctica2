@@ -1,0 +1,34 @@
+﻿<Window x:Class="Garcia_Bernardo_PRG_III__A__Práctica2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Garcia_Bernardo_PRG_III__A__Práctica2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="7*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Left" Margin="95,10,0,0" TextWrapping="Wrap" Text="PRACTICA 2" VerticalAlignment="Top" FontSize="20" TextAlignment="Center" FontWeight="Bold" Grid.Column="1" Height="27" Width="138"/>
+        <ListBox x:Name="lstVisualizar" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="18,83,288,124" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="146,59,0,0" TextWrapping="Wrap" Text="MENÚ" VerticalAlignment="Top" TextAlignment="Center" FontSize="14" FontWeight="Bold" Grid.Column="1" Height="19" Width="68"/>
+        <ListBox x:Name="lstPedidos" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="361,83,14,124" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="463,59,0,0" TextWrapping="Wrap" Text="PEDIDO" VerticalAlignment="Top" FontSize="14" FontWeight="Bold" Grid.Column="1" Height="19" Width="52"/>
+        <Button x:Name="btnComprar" Content="COMPRAR" HorizontalAlignment="Left" Margin="510,499,0,0" VerticalAlignment="Top" Height="35" Width="106" Grid.Column="1" Click="btnComprar_Click"/>
+        <Button x:Name="btnSalir" Content="Salir" HorizontalAlignment="Left" Margin="127,499,0,0" VerticalAlignment="Top" Height="35" Width="106" Click="btnSalir_Click" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="85,391,0,0" TextWrapping="Wrap" Text="¿Que plato desea?" VerticalAlignment="Top"/>
+        <TextBox x:Name="txbPlato" HorizontalAlignment="Center" Margin="0,412,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnAgregar" Content="AGREGAR" HorizontalAlignment="Center" Margin="0,480,0,0" VerticalAlignment="Top" Height="35" Width="120" Click="btnAgregar_Click"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,353,0,0" TextWrapping="Wrap" Text="----------------------------------------------" VerticalAlignment="Top"/>
+        <ComboBox x:Name="cmbQuiero" HorizontalAlignment="Center" Margin="0,132,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="cmbNoQuiero" HorizontalAlignment="Center" Margin="0,236,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,94,0,0" TextWrapping="Wrap" Text="QUIERO:" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,192,0,0" TextWrapping="Wrap" Text="NO QUIERO:" VerticalAlignment="Top" FontWeight="Bold"/>
+        <Button x:Name="btnFiltrar" Content="FILTRAR" HorizontalAlignment="Left" Margin="75,302,0,0" VerticalAlignment="Top" Click="btnFiltrar_Click"/>
+        <Button x:Name="btnReset" Content="RESET" HorizontalAlignment="Left" Margin="159,302,0,0" VerticalAlignment="Top" Click="btnReset_Click"/>
+        <Button x:Name="btnBorrarPedido" Grid.Column="1" Content="BORRAR PEDIDO" HorizontalAlignment="Left" Margin="361,499,0,0" VerticalAlignment="Top" Height="35" Width="106" Click="btnBorrarPedido_Click"/>
+
+    </Grid>
+</Window>

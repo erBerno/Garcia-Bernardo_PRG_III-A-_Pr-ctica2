@@ -1,0 +1,21 @@
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\bin\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.exe
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\bin\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.deps.json
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\bin\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.runtimeconfig.json
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\bin\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.dll
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\bin\Debug\net6.0-windows\ref\Garcia Bernardo_PRG_III (A)_Práctica2.dll
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\bin\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.pdb
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.csproj.AssemblyReference.cache
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\App.g.cs
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2_MarkupCompile.cache
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2_MarkupCompile.lref
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.g.resources
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.AssemblyInfoInputs.cache
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.AssemblyInfo.cs
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.csproj.CoreCompileInputs.cache
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.dll
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\ref\Garcia Bernardo_PRG_III (A)_Práctica2.dll
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.pdb
+D:\Proyectos Progra III\Garcia Bernardo_PRG_III (A)_Práctica2\Garcia Bernardo_PRG_III (A)_Práctica2\obj\Debug\net6.0-windows\Garcia Bernardo_PRG_III (A)_Práctica2.genruntimeconfig.cache
